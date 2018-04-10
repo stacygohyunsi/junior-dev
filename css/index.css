@@ -2,7 +2,7 @@
 	text-align: left;
 }
 
-.reveal section .miniIcons{
+.reveal section .miniIcons {
 	width: 20px;
 	border: none;
 	padding-right:15px;
@@ -10,6 +10,27 @@
 	box-shadow: none;
 }
 
-.frontSubDescription {
+.reveal section img {
+	border: none;
+}
 
+.highlight {
+	color: #EF4836
+}
+
+.reveal section.aboutMe {
+	top: 229px;
+	display: block;
+	width: 50%;
+	position: absolute;
+	left: -200px;
+}
+
+.reveal section .descriptionMyself{
+	text-align: left;
+}
+
+.sectionHeader {
+	padding: 30px;
+	background: rgba(255, 255, 255, 0.5);
 }
